@@ -6,7 +6,7 @@ const Box = styled.div`
   padding: 16px;
   margin-bottom: 10px;
 
-  .boxlink {
+  .boxLink {
     font-size: 14px;
     color: #2e7bb4;
     text-decoration: none;
@@ -28,13 +28,13 @@ const Box = styled.div`
     font-weight: 700;
     color: #333333;
   }
-  .hr {
+  hr {
     margin-top: 12px;
     margin-bottom: 8px;
     border-color: transparent;
     border-bottom-color: #ecf2fa;
   }
-  .input {
+  input {
     width: 100%;
     background-color: #f4f4f4;
     color: #333333;
@@ -47,7 +47,7 @@ const Box = styled.div`
       opacity: 1;
     }
   }
-  .button {
+  button {
     border: 0;
     padding: 8px 12px;
     color: #ffffff;
